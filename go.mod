@@ -1,6 +1,6 @@
 module github.com/vhellman/sr
 
-go 1.21.3
+go 1.21
 
 require github.com/riferrei/srclient v0.6.0
 
